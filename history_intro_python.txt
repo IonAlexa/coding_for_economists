@@ -1,0 +1,22 @@
+    1  git status
+    2  git remote add origin https://github.com/IonAlexa/coding_for_economists.git
+    3  git branch -M main
+    4  git push -u origin main
+    5  git add main.py
+    6  git commit -m "Addedmain.py"
+    7  git config --global user.email "Ion_Alexandra@student.ceu.edu"
+    8  git config --global user.name "IonAlexa"
+    9  git push -u origin main
+   10  git config credential.username "IonAlexa"
+   11  git push -u origin main
+   12  git add main.py
+   13  git commit -m "Added main.py"
+   14  git push -u origin main
+   15  python
+   16  python
+   17  git status
+   18  git add main.py
+   19  git commit -m "Coded solution to string slicing exercise"
+   20  git push -u origin main
+   21  history
+   22  history > history_intro_python.txt
