@@ -1,0 +1,21 @@
+#First look at dictionaries
+
+#A dictionary is a collection of key-value pairs
+
+#Syntax
+
+myDict =  {
+  "Dog": "Barks",
+  "Cat": "Meows",
+  "Whale": "Shreeks"
+}
+print(myDict)
+
+#We cannot use the same indexing syntay as with lists
+print(myDict[0]) #Error
+
+#WE can use the key to get the value
+#print(myDict["Dog"])
+
+#Retrive items of dictionary
+print(myDict.items())
