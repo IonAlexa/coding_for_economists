@@ -1,0 +1,50 @@
+    1  #git config --global user.email "Ion_Alexandra@student.ceu.edu"
+    2  # git config -- global user.name "IonAlexa"
+    3  python
+    4  touch main.py
+    5  git status
+    6  git add 02_basic_pythom.py
+    7  git commit -m "Added tests for inequality"
+    8  git config --global user.email "Ion_
+Alexandra@student.ceu.edu
+it config --global user.email "Ion_
+    9  it config --global user.email "Ion_
+Alexandra@student.ceu.edu"
+   10  git config --global user.email "Ion_
+> Alexandra@student.ceu.edu"
+   11  git config -- global user.name "IonAlexa"
+   12  git config -- global user.name "IonAlexa"
+   13  # Introduce packages
+   14  import random
+   15  # Generate random integer between 20 and 34
+   16  random_number = random.randint(20, 34) #Randint is the function of the package
+   17  print(random_number) # we get a different number each time we run the script
+   18  #Python Docs for quations about the functions
+   19  #First look at conditional statements
+   20  if random_number < 25:;     print("The number is less than 25") #works only with tab
+   21  elif random_number <30:
+   22      print("The number is greater than 30") 
+   23  else:
+   24      print("The number is greater than 34") 
+   25  #if the first case is met (our number is 22), then it never reaches thte other two cases after --> careful when designing if statements!!!
+   26  #cases structure should be typically exhaustive
+   27  #Nested if statements
+   28  a = random.randint(0,10)
+   29  b = random.randint(10,20)
+   30  if a < 9:;   print(f'a is less than 9.')
+   31    if b <19:;     print(f'b is smaller than 19.')
+   32  #Equivalently, we can combine the logical conditions
+   33  if a < 9 and b < 19: git config --global user.name "IonAlexa" git config -- global user.name "IonAlexa"; kk
+   34  git config --global user.name "IonAlexa"
+   35  git push 
+   36  mv main.py 05_python_conditional_statements.py
+   37  touch main.py
+   38  python
+   39  mv main.py 07:python_loops.py
+   40  mv 07\:python_loops.py 07_python_loops.py
+   41  add 07_python_loops.py 
+   42  git add 07_python_loops.py 
+   43  git commit -m "Added script introduction for and while loops"
+   44  git push
+   45  mv 05_python_conditional_statements.py 06_python_conditional_statements.py
+   46  history > 02_history_loops.txt
